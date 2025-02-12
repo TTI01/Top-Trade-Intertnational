@@ -1,10 +1,17 @@
+**Project Proposal**
 
 **Title: Top Trade International (TTI) Company Inventory Management System**
 
+**Submitted by:**
+- MD Mehedi Hasan Sourav (22234103183)  
+- MD Obydur Rahman (22234103179)  
+- MD Arafat Hossain Mishal (22234103188)  
+- Sajal Saha (22234103174)  
+- MD Najib Hasan (22234103172)  
 
 **Department of Computer Science & Engineering**  
 **Bangladesh University of Business and Technology (BUBT)**  
-
+**Submission Date: October 2024**  
 
 ---
 

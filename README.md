@@ -1,4 +1,3 @@
-**Project Proposal**
 
 **Title: Top Trade International (TTI) Company Inventory Management System**
 
@@ -11,7 +10,7 @@
 
 **Department of Computer Science & Engineering**  
 **Bangladesh University of Business and Technology (BUBT)**  
-**Submission Date: October 2024**  
+
 
 ---
 
@@ -54,7 +53,6 @@ The primary objectives of the project are:
 - **Improve Accuracy**: Minimize human errors in stock management and order processing.
 - **Enhance Real-Time Stock Tracking**: Provide up-to-date inventory levels to prevent stockouts and optimize procurement.
 - **Data-Driven Decision Making**: Generate insightful reports on stock turnover, demand trends, and sales analysis.
-- **Integration with ERP and E-commerce**: Ensure seamless synchronization with existing business tools to improve operational efficiency.
 
 ---
 
@@ -66,7 +64,7 @@ The proposed system will include the following key functionalities:
 - **Stock Monitoring**: Real-time tracking of available stock and automated alerts for low inventory levels.
 - **Order Processing**: Customers can place orders online, and sales staff can process them efficiently.
 - **Reporting & Analytics**: Sales trends, stock movement, and automated forecasting reports.
-- **System Integration**: API support for integration with ERP, accounting software, and e-commerce platforms.
+- **System Integration**: API support for integration with ERP, accounting software.
 
 ---
 
